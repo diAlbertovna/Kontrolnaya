@@ -1,5 +1,7 @@
 ## Итоговая контрольная работа по основному блоку
 
+![picture of block sxema](https://github.com/diAlbertovna/Kontrolnaya/blob/main/pic%20kontrolnaya%20block%20sxema.png)
+
 Задача алгоритмически не самая сложная, однако для полноценного выполнения проверочной работы необходимо:
 
 1. Создать репозиторий на GitHub
